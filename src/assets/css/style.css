@@ -1,0 +1,8 @@
+.navbar-wrapper{
+    display: flex;
+}
+
+.navbar-wrapper h2{
+    color: #ffffff;
+    margin: 0;
+}
